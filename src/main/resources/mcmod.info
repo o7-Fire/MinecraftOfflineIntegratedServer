@@ -1,0 +1,16 @@
+[
+{
+  "modid": "OfflineIntegratedServer",
+  "name": "Offline Integrated Server",
+  "description": "Shm",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Itzbenz"],
+  "credits": "o7",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
